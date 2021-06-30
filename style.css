@@ -5,5 +5,16 @@ html {
     box-sizing: inherit;
   }
   body {
-    background: #ffffff;
+    background: #2C2141;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+  }
+  .main{
+    background: #F8F8F8;
+    border-radius: 16px;
+    width: 624px;
+    margin: 16px;
   }
